@@ -27,6 +27,7 @@ if (STATIC_BUILD)
             zstd
             bz2
             z
+            expat
             crypto
     )
 else ()
